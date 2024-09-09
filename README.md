@@ -1,3 +1,5 @@
+Node Docker Project
+
 This project is a Node.js application that demonstrates how to containerize a Node.js app using Docker. It includes Docker Compose files for different environments: a general setup and a development-specific configuration.
 Getting Started
 To get started with this project, you’ll need to have Docker and Docker Compose installed on your machine. You can download Docker from Docker's official website and Docker Compose from Docker Compose's installation page.
